@@ -1,17 +1,17 @@
 # SiriusStepperTest
 
-An example application made to showcase functionality of the [sirius-stepper]() library.
+An example application made to showcase functionality of the [sirius-stepper](https://github.com/dav793/sirius-stepper) library.
 
 ## Installation
 
 1. Clone and enter
     ```bash
-    $/> git clone ...
+    $/> git clone https://github.com/dav793/sirius-stepper-test.git
     $/> cd sirius-stepper-test
     $/sirius-stepper-test>
     ```
  
-2. Link with `sirius-stepper` lib locally. (You must link the lib build first, see the [sirius-stepper page]())
+2. Link with `sirius-stepper` lib locally. (You must link the lib build first, see the [sirius-stepper page](https://github.com/dav793/sirius-stepper))
     ```bash
     $/sirius-stepper-test> npm link sirius-stepper
     ```
@@ -24,5 +24,5 @@ An example application made to showcase functionality of the [sirius-stepper]() 
 ## Usage
 Open browser to [http://localhost:4200](http://localhost:4200).
 
-See the the [sirius-stepper page]() for more information on how to use the library.
+See the the [sirius-stepper page](https://github.com/dav793/sirius-stepper) for more information on how to use the library.
 
