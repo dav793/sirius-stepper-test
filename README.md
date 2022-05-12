@@ -1,27 +1,28 @@
 # SiriusStepperTest
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.6.
+An example application made to showcase functionality of the [sirius-stepper]() library.
 
-## Development server
+## Installation
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+1. Clone and enter
+    ```bash
+    $/> git clone ...
+    $/> cd sirius-stepper-test
+    $/sirius-stepper-test>
+    ```
+ 
+2. Link with `sirius-stepper` lib locally. (You must link the lib build first, see the [sirius-stepper page]())
+    ```bash
+    $/sirius-stepper-test> npm link sirius-stepper
+    ```
+    
+3. Build and serve
+    ```bash
+    $/sirius-stepper-test> ng serve
+    ```
 
-## Code scaffolding
+## Usage
+Open browser to [http://localhost:4200](http://localhost:4200).
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+See the the [sirius-stepper page]() for more information on how to use the library.
 
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
