@@ -11,12 +11,17 @@ An example application made to showcase functionality of the [sirius-stepper](ht
     $/sirius-stepper-test>
     ```
  
-2. Link with `sirius-stepper` lib locally. (You must link the lib build first, see the [sirius-stepper page](https://github.com/dav793/sirius-stepper))
+2. Install dependencies
+    ```bash
+    $/sirius-stepper-test> npm install
+    ``` 
+ 
+3. Link with `sirius-stepper` lib locally. (You must link the lib build first, see the [sirius-stepper page](https://github.com/dav793/sirius-stepper))
     ```bash
     $/sirius-stepper-test> npm link sirius-stepper
     ```
     
-3. Build and serve
+4. Build and serve
     ```bash
     $/sirius-stepper-test> ng serve
     ```
