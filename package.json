@@ -1,6 +1,15 @@
 {
   "name": "sirius-stepper-test",
   "version": "0.0.0",
+  "description": "An example application made to showcase functionality of the sirius-stepper library",
+  "license": "MIT",
+  "keywords": [
+    "stepper"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dav793/sirius-stepper-test.git"
+  },
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
