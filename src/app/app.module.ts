@@ -17,6 +17,7 @@ import { AppComponent } from './app.component';
     FormsModule,
     SiriusStepperModule
   ],
+  providers: [],
   bootstrap: [AppComponent]
 })
 export class AppModule { }
