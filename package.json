@@ -2,6 +2,7 @@
   "name": "sirius-stepper-test",
   "version": "0.0.0",
   "description": "An example application made to showcase functionality of the sirius-stepper library",
+  "author": "David Vargas <dav793@gmail.com>",
   "license": "MIT",
   "keywords": [
     "stepper"
